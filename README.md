@@ -3,7 +3,7 @@
 
 ```javascript
 const pedro = {
-  studying: "front-end",
+  studying: "Front-End",
   code: [HTML, CSS, JavaScript, Python],
-  college: "analysis and siystems development"
+  college: "Analysis and Siystems Development"
 }
